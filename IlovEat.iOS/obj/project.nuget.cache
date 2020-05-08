@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xDa5h0qbYRQeIUGimPdSUypFCs2MMlJDXyJTvAnF02ySx/nTY8NCh53mTDKs+W706A+fIhAc4dtljLgOzoV29g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcelo.canhoto\\source\\repos\\IlovEat\\IlovEat.iOS\\IlovEat.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcelo.canhoto\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\marcelo.canhoto\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512",
+    "C:\\Users\\marcelo.canhoto\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512",
+    "C:\\Users\\marcelo.canhoto\\.nuget\\packages\\xamarin.forms.behaviorvalidationpack\\1.1.0\\xamarin.forms.behaviorvalidationpack.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
